@@ -20,8 +20,8 @@
     --cor4: #665F48;
 
     --fonte-padrao: Arial, Verdana, Helvetica, sans-serif;
-    --fonte-destaque:'BebasNeue', cursive;
-    --fonte-idroid: 'idroid', cursive;
+    --fonte-destaque:'BebasNeue', arial;
+    --fonte-idroid: 'idroid', arial;
 }
 *{
     margin: 0px;
@@ -131,9 +131,7 @@ main p{
     font-family: var(--fonte-padrao);
     text-indent: 20px;
     margin: 15px 0px;
-    
-  
-
+      
 }
 main strong{
     color: white;
