@@ -1,8 +1,8 @@
 @charset "UTF-8";
 
 @font-face{
-    font-family: 'idroid';
-    src: url('idroid.otf'); format('opentype'), url('idroid.otf')
+    font-family: '._idroid';
+    src: url('._idroid.otf'); format('opentype'), url('._idroid.otf')
     font-weight: normal;
     font-style: normal;   
 }
@@ -20,8 +20,8 @@
     --cor4: #665F48;
 
     --fonte-padrao: Arial, Verdana, Helvetica, sans-serif;
-    --fonte-destaque:'BebasNeue', arial;
-    --fonte-idroid: 'idroid', arial;
+    --fonte-destaque:'BebasNeue', cursive;
+    --fonte-idroid: '._idroid', cursive;
 }
 *{
     margin: 0px;
